@@ -12,11 +12,16 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | [04](./classes/04) | 4/26 | [Exploratory Data Analysis](./classes/04) | | |
 | [05](./classes/05) | 5/1 | [_k_-Nearest Neighbors](./classes/05) | **[Unit Project 1](./unit-project/1)** | |
 <<<<<<< HEAD
+<<<<<<< HEAD
 | 06 | 5/3 | Applied Data Wrangling and Exploratory Data Analysis | | **[Unit Project 1](./unit-project/1)** |
 =======
 | [06](./classes/06) | 5/3 | [Applied Data Wrangling and Exploratory Data Analysis](./classes/06) | | **[Unit Project 1](./unit-project/1)** |
 >>>>>>> aecd0f29016f21d70bb56edd096402a6e5b3292b
 | 07 | 5/8 | Linear Regression | | |
+=======
+| [06](./classes/06) | 5/3 | [Applied Data Wrangling and Exploratory Data Analysis](./classes/06) | | |
+| 07 | 5/8 | Linear Regression | | **[Unit Project 1](./unit-project/1)** |
+>>>>>>> 71428d0cffd4aecd6d3d7183262bea9e43261caf
 | 08 | 5/10 | Linear Regression, Part 2 | **[Final Project 1](./final-project/1)** | |
 | 09 | 5/15 | Linear Regression, Part 3 | **[Unit Project 2](./unit-project/2)** | |
 | 10 | 5/17 | Regularization | | **[Final Project 1](./final-project/1)** |
@@ -52,7 +57,7 @@ You've all been invited to use [Slack](https://ds-sf-34.slack.com) for chat duri
 
 | Unit Project | Description | Objective | Soft Deadline | Hard Deadline<br/>(by 6:30 PM) |
 |:---:|:---|:---|:---:|:---:|
-| [1](./unit-project/1) | [Research Design](./unit-project/1) | Create a problem statement, analysis plan, and data dictionary | 5/1 | 5/3 |
+| [1](./unit-project/1) | [Research Design](./unit-project/1) | Create a problem statement, analysis plan, and data dictionary | 5/1 | 5/8 |
 | [2](./unit-project/2) | [Exploratory Data Analysis](./unit-project/2) | Perform exploratory data analysis using visualizations and statistical analysis | 5/15 | 5/22 |
 | [3](./unit-project/3) | [Machine Learning Modeling and Executive Summary](./unit-project/3) | Engineer features, perform logistic regressions, and predict class probabilities; write up an executive summary that outlines your findings and the methods used | 6/5 | 6/12 |
 
